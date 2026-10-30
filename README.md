@@ -6,9 +6,9 @@ This is a repository for the ENGR315 Project. It focuses on analyzing NYS Traffi
 # Motivation
 - This repository is used to analyze New York State traffic violations by driver age, gender, location, and day of the week. - The goal is to organize and analyze traffic-ticket records to identify differences across groups and times, and communicate the findings using Python through statistical methods and visualizations.
 
---Dataset: https://catalog.data.gov/dataset/traffic-tickets-issued-four-year-window?from_hint=eyJxIjoiTmV3IHlvcmsgdHJhZmZpYyJ9--
--Issued from NYS DMV 
--Relevant columns are age, gender, violation code/description, violation date, location or jurisdiction, and vehicle registration state, subject to availability and completeness in the downloaded dataset.
+Dataset: https://catalog.data.gov/dataset/traffic-tickets-issued-four-year-window?from_hint=eyJxIjoiTmV3IHlvcmsgdHJhZmZpYyJ9
+- Issued from NYS DMV 
+- Relevant columns are age, gender, violation code/description, violation date, location or jurisdiction, and vehicle registration state, subject to availability and completeness in the downloaded dataset.
 
 # Research Questions
 1. Does age significantly predict traffic violations among adult male drivers?
