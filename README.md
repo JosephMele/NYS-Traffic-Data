@@ -36,9 +36,9 @@ The tools we will be using to implement and prepare out data are Python, pandas,
   *Method
     *Filter the dataset to include only male drivers 18 or older. Group age ranges and count the violations within each group
   *Metrics
-    *Number of recorded violations by age
-    *Percentage of the male-adult ticket sample in each age group
-    *Group age differences and fitted trend/model statistics, including a p-value where appropriate
+  Number of recorded violations by age
+  Percentage of the male-adult ticket sample in each age group
+  Group age differences and fitted trend/model statistics, including a p-value where appropriate
   *Tools
     *Pandas, NumPy, Matplotlib
   *Plot
