@@ -30,7 +30,7 @@ The tools we will be using to implement and prepare out data are Python, pandas,
   - Load the dataset into python using pandas to create a data frame of our csv file
   - Determine which columns are relevant to the question being asked
   
-  ## Question 1
+  # Question 1
   
   ## Method
 Filter the dataset to include only male drivers 18 or older. Group age ranges and count the violations within each group
@@ -43,7 +43,7 @@ Filter the dataset to include only male drivers 18 or older. Group age ranges an
   ## Plot
     Bar chart of violation counts by age range
     
-  ## Question 2
+  # Question 2
   
   ## Method
 Filter the violations based on both gender and traffic violations. Plot the count of each violation over 500 for each gender and then filter by jurisdiction
@@ -56,7 +56,7 @@ Filter the violations based on both gender and traffic violations. Plot the coun
   ## Plot
     Stacked bar charts for violation types by gender
     
-  ## Question 3
+  # Question 3
   
   ## Method
 Take the total violations under each day of the week and separate the per age violation count under each day. The table should show a row for each age present and the number of counts at that age per each day of the week.
