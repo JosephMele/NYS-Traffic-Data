@@ -71,8 +71,12 @@ Take the total violations under each day of the week and separate the per age vi
   Multi-line chart of ticket counts by age for each weekday
 
 # Results
+  ## Question 1:
+  The dataset was trimmed to only include violations of males between the ages of 18 and 100. A Gamma distribution was fitted over a histogram of the data and the two modes were compared. The mode of the data was 23, and the mode of the gamma distribution was roughly 25, meaning the age of violation shares a correlation with total violations for males over the age of 18.
 
 # Conclusions
+  ## Question 1:
+  Traffic violations for men above 18 peak at 23 years old.
 
 # References
 Data.gov — Traffic Tickets Issued: Four Year Window.
